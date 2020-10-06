@@ -10,7 +10,7 @@
 
 ### Contacts
 
-- [Email](mailto:wcaquino@gmail.com)
+- Email: wcaquino@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/francisco-wagner-costa-aquino-297ba6105/)
 
 <!--
